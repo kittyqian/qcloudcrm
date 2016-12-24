@@ -9,6 +9,7 @@ use \Tuanduimao\Conf as Conf;
 class DefaultsController extends \Tuanduimao\Loader\Controller {
 	
 	function __construct() {
+		echo 'hello';
 	}
 
 	function index() {
